@@ -124,7 +124,12 @@ h1 {
     font-size: 30px;
     color: black;
 }
-
+.container-formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
 
 /* cards */
 .container-cards {
